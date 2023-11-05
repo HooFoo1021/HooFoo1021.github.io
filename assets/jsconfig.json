@@ -1,0 +1,10 @@
+{
+ "compilerOptions": {
+  "baseUrl": ".",
+  "paths": {
+   "*": [
+    "../../../../../../home/linuxbrew/.linuxbrew/Cellar/go/1.20.2/libexec/pkg/mod/github.com/nicokaiser/hugo-theme-gallery@v0.0.0-20231023205252-f5a7584cd956/assets/*"
+   ]
+  }
+ }
+}
