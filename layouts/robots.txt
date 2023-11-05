@@ -2,3 +2,4 @@ User-agent: *
 {{ range .Pages }}
 Disallow: {{ .RelPermalink }}
 {{ end }}
+#DaumWebMasterTool:d548e385eddc653fd7e2819fcb13fc331b9eb1ecbe2c362a8c3cc2f31dd7a905:Pt5hVnR3xIcOELcGOOspWg==
