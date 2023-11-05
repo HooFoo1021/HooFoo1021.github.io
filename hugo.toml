@@ -1,11 +1,11 @@
 baseURL = 'https://hoofoo1021.github.io/'
 title = "Gallery"
 languageCode = "en-us"
-copyright = "© Your Name"
+copyright = "© Mindulle"
 disableKinds = ["taxonomy", "term"]
 defaultContentLanguage = "en"
 enableRobotsTXT = true
-timeZone = "Europe/Berlin"
+timeZone = "Asia/Seoul"
 theme = "github.com/nicokaiser/hugo-theme-gallery"
 
 [params]
@@ -14,7 +14,7 @@ theme = "github.com/nicokaiser/hugo-theme-gallery"
   defaultTheme = "dark"
 
 [author]
-  name = "Your Name"
+  name = "Mindulle"
 
 [outputs]
   page = ["HTML"]
@@ -60,3 +60,8 @@ theme = "github.com/nicokaiser/hugo-theme-gallery"
   name = "GitHub"
   url = "https://github.com/nicokaiser/hugo-theme-gallery/"
   weight = 3
+
+[sitemap]
+  changefreq = "daily"
+  filename = "sitemap.xml"
+  priority = 0.5
